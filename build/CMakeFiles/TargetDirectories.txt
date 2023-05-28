@@ -1,0 +1,5 @@
+/home/pi/Desktop/new/build/CMakeFiles/rebuild_cache.dir
+/home/pi/Desktop/new/build/CMakeFiles/edit_cache.dir
+/home/pi/Desktop/new/build/CMakeFiles/main.dir
+/home/pi/Desktop/new/build/CMakeFiles/tst.dir
+/home/pi/Desktop/new/build/CMakeFiles/cv.dir

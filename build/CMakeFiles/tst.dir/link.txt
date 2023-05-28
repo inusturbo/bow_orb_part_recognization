@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/tst.dir/all.cpp.o  -o tst /usr/lib/libwiringPi.so 

@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/pi/Desktop/new/all.cpp
+cstdio
+-
+wiringPi.h
+-
+wiringSerial.h
+-
+wiringPiI2C.h
+-
+wiringPiSPI.h
+-
+wiringShift.h
+-
+sys/time.h
+-
+softPwm.h
+-
+cstring
+-
+iostream
+-
+string
+-
+cstdlib
+-
+cstdint
+-
+
